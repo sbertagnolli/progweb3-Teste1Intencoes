@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestIntencao</string>
+    <string name="selecionar_estado">Selecione um estado</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_tela_selecao">Selecione</string>
+    <string-array name="estados">
+        <item>Paraná</item>
+        <item>Santa Catarina</item>
+        <item>Rio Grande do Sul</item>
+    </string-array>
+</resources>
